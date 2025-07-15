@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🐞 Creating bugs since 2022  <br><br>🌱 **Currently Learning**: Frameworks, Online Courses, and Networking  <br><br>📫 **How to reach me**: [lumibaokurtnivlha@gmail.com](mailto:lumibaokurtnivlha@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)  <br><br>💡 **Fun fact**: I code at night</p>
+<p align="left">🐞 Creating bugs since 2022  <br><br>🌱 **Currently Learning**: Frameworks, Online Courses, and Networking  <br><br>📫 **How to reach me**: **lumibaokurtnivlha@gmail.com**  <br><br>💡 **Fun fact**: I code at night</p>
 
 ###
 
